@@ -1,0 +1,4 @@
+#Sat Jul 23 12:42:45 IST 2022
+base.0=P\:\\Projects\\Flutter\\personal_expense_new\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
